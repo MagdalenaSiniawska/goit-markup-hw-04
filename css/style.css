@@ -324,6 +324,10 @@ button:focus {
     padding: 32px 0;
 }
 
+.icon{
+    fill:#f4f4fd;
+}
+
 .social_media_icons{
     display: flex;
     justify-content: center;
@@ -370,7 +374,7 @@ button:focus {
 }
 
 .portfolio:hover{
-    box-shadow: #434455;
+    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
