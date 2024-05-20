@@ -461,10 +461,13 @@ footer {
 
 }
 
+.container_footer_logo_part{
+    margin-right: 120px;
+}
+
 .container_footer{
     display: flex;
-    align-items: baseline;
-    margin-right: 120px;
+    align-items: baseline,
 }
 
 .social_media_footer{
