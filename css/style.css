@@ -428,8 +428,8 @@ button:focus {
  }
 
  .portfolio_image{
-    align-items: center;
-    overflow: auto;
+    position: absolute;
+    overflow: visible;
 
  }
 
