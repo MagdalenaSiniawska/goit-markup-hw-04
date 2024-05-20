@@ -443,7 +443,7 @@ footer {
 
 }
 
-.container .container_footer{
+.container_footer{
     display: flex;
     align-items: baseline;
     margin-right: 120px;
