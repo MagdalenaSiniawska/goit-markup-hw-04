@@ -429,7 +429,7 @@ button:focus {
 
  .portfolio_image{
     position: relative;
-    overflow: visible;
+    overflow: hidden;
 
  }
 
