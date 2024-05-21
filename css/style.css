@@ -494,16 +494,13 @@ footer {
 .list_of_social_media_icons{
     display: flex;
     gap: 16px;
-    /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 
 .list_icons_footer{
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     width: 40px;
     height: 40px;
-    /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
-}
-.list_icons_footer:hover{
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 
 .icon_link_footer{
