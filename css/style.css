@@ -499,11 +499,9 @@ footer {
 .list_icons_footer{
     width: 40px;
     height: 40px;
+    /* transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
 
-.list_icons_footer .list_of_social_media_icons {
-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
 
 .icon_link_footer{
     width: 100%;
@@ -513,6 +511,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .icon_link_footer:hover{
     background-color: #31d0aa;
